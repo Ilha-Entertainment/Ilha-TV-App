@@ -1,4 +1,4 @@
-const CACHE_NAME = "ilha-control-v1";
+const CACHE_NAME = "ilha-tv-v1";
 
 self.addEventListener("install", event => {
   self.skipWaiting();

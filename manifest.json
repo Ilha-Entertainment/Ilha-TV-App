@@ -3,8 +3,8 @@
   "short_name": "Ilha TV",
   "description": "Ilha Entertainment® apresenta. - Ilha TV",
 
-  "start_url": "/p/ilha-tv-app_6.html",
-  "scope": "/p/",
+  "start_url": "https://ilhaente-tv.blogspot.com/3000/01/ilha-tv-app.html",
+  "scope": "/",
 
   "display": "standalone",
   "background_color": "#000000",

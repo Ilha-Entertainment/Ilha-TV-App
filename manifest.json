@@ -4,7 +4,7 @@
   "description": "Ilha Entertainment® apresenta. - Ilha TV",
 
   "start_url": "/3000/01/ilha-tv-app.html",
-  "scope": "/p/",
+  "scope": "/3000/01/ilha-tv-app.html",
 
   "display": "standalone",
   "background_color": "#000000",
